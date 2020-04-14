@@ -1,0 +1,32 @@
+Question 1:Do you think DL will be replacing ML in the near future? Why?
+Answer:DL,the subset of ML,is the study of neural networks.The main advantage of DL over ML is that:
+ML model needs guidance on making progresssive changes.If Ml hits a dead end or make an incorrect prediction,
+the programmer will have to manually correct the bug while DL can work out on its own.
+
+Question 2:What are the pros and cons of Supervised, Unsupervised and Reinforcement Learning?
+Answer:
+a)Supervised Learning-
+Pros:
+>We will have an exact idea about the classes in the training data.
+>We can find out exactly how many classes are there before giving the data for training.
+>It is very helpful in classification problems.
+Cons:
+>It cannot cluster or classify data by discovering its features on its own.
+>Supervised learning cannot give you unknown information from the training data.
+b)Unsupervised Learning:
+Pros:
+>It finds all kind of unknown patterns in data.
+>It help you to find features which can be useful for categorization.
+>It is taken place in real time, so all the input data to be analyzed and labeled in the presence of learners.
+Cons:
+>We cannot get precise information regarding data sorting, and the output as data used 
+in unsupervised learning is labeled and not known.
+>Less accuracy of the results is because the input data is not known and not labeled by people in advance.
+c)Reinforcement Learning:
+Pros:
+>The model can correct the errors occurred during the training process.
+>In the absence of a training dataset, it is bound to learn from its experience.
+>It can be useful when the only way to collect information about the environment is to interact with it
+Cons:
+>Reinforcement learning needs a lot of data and a lot of computation. It is data-hungry.
+>Too much reinforcement learning can lead to an overload of states which can diminish the results.
