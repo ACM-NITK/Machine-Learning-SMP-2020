@@ -1,0 +1,45 @@
+ANS 1 
+I don’t think that DL will completely replace ML because DL is just a part of ML on large data sets.
+There is no doubt that DL is more advanced than  ML but with that also comes high hardware requirements 
+and I don’t think every organisation will be able to meet up the demands. 
+
+
+ANS 2
+
+Supervised learning-
+
+  PROs-
+  We have an exact idea about the classes in the training data.
+  Supervised learning is a simple process for us to understand. In the case of unsupervised learning, we don’t easily understand what is happening inside the machine, how it is learning, etc.
+  It is possible  to be very specific about the definition of the classes, that is, we can train the classifier in a way which has a perfect decision boundary to distinguish different classes accurately.
+
+  CONs-
+  Supervised learning is limited in a variety of senses so that it can’t handle some of the complex tasks in machine learning.
+  Supervised learning cannot give you unknown information from the training data like unsupervised learning does.
+  It cannot cluster or classify data by discovering its features on its own, unlike unsupervised learning
+
+
+Unsupervised learning-
+
+  PROs-
+  It can detect what human eyes can not understand
+  The potential of hidden patterns can be very powerful for the business or even detect extremely amazing facts, fraud detection etc.
+  Output can determine the un explored territories and new ventures for businesses. Exploratory analytics can be applied to understand the financial, business and operational drivers behind what happened.
+
+  CONs-
+  As seen in above explanation unsupervised learning is harder as compared to supervised learning.
+  It can be a costly affair, as we might need external expert look at the results for some time.
+  Usefulness of the results; are of any value or not is difficult to confirm since no answer labels are available.
+
+
+Reinforcement learning-
+
+  PROs-
+  Reinforcement learning can be used to solve very complex problems that cannot be solved by conventional techniques.
+  The model can correct the errors occurred during the training process.
+  Once an error is corrected by the model, the chances of occurring the same error are very less.
+
+  CONs-                                                                                                                                                                                                                               
+  Too much reinforcement learning can lead to an overload of states which can diminish the results.
+  Reinforcement learning is not preferable to use for solving simple problems.
+  Reinforcement learning needs a lot of data and a lot of computation. It is data-hungry. That is why it works really well in video games because one can play the game again and again and again, so getting lots of data seems feasible.
